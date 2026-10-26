@@ -53,8 +53,6 @@ define('ALERT_EMAIL', '');
    - Caches config and routes
 5. **Complete** — links to admin login
 
-The Marketplace connector reports your site's domain and version to avisaas.
-
 ## Security
 
 The installer applies these protections:
