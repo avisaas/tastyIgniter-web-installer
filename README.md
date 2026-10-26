@@ -46,7 +46,6 @@ define('ALERT_EMAIL', '');
 4. **Install** — runs automatically:
    - Creates `.env` file
    - Downloads and runs Composer
-   - Adds the avisaas Marketplace connector, so you can browse and install extensions from your admin panel
    - Sets storage permissions
    - Creates root `.htaccess`
    - Runs database migrations and `artisan igniter:install`
